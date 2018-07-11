@@ -57,11 +57,10 @@ a[href="index.html"]:hover {
   background-position: 0 40px;
 }
 .tips {
-  /* transition: 0.2s ease-out; */
+  transition: 0.2s ease-out;
   display: block;
 }
 .tips:hover {
-  /* transition: 0.2s ease-out; */
-  /* transform: scale(1.2); */
-  background: #fff;
+  transition: 0.2s ease-out;
+  transform: scale(1.2);
 }
