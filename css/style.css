@@ -19,9 +19,10 @@ body {
   perspective: 900px;
   perspective-origin: center;
   transform-style: preserve-3d;
+  background-color: #ebebeb;
 }
 #wrapper {
-  background: url("../images/grid3.svg");
+  /* background: url("../images/grid3.svg"); */
   min-height: 100%;
   margin: -40px;
   padding: 80px;
@@ -29,10 +30,38 @@ body {
   transform-style: preserve-3d;
   /* transform: rotateX(10deg) rotateY(10deg); */
 }
+.cricket {
+  text-rendering: optimizeLegibility;
+  perspective: 100px;
+  perspective-origin: center;
+  transform-style: preserve-3d;
+  z-index: 10000;
+}
 header {
   height: 80px;
-  background: #fff;
 }
 #content .container {
   transform: translateZ(40px);
+}
+a[href="index.html"] {
+  display: block;
+  width: 80px;
+  height: 40px;
+  /* background: url("../images/logo.svg"); */
+  background-size: 100%;
+  background-position: 0 0;
+  /* text-indent: -2000px; */
+}
+a[href="index.html"]:hover {
+  background-color: red;
+  background-position: 0 40px;
+}
+.tips {
+  /* transition: 0.2s ease-out; */
+  display: block;
+}
+.tips:hover {
+  /* transition: 0.2s ease-out; */
+  /* transform: scale(1.2); */
+  background: #fff;
 }
