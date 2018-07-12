@@ -1,0 +1,168 @@
+cricket:
+  title: 'Crickets'
+  location: [1, 1]
+  img: 'images/foods/cricket.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+chickenfeet:
+  title: 'Chicken Feet'
+  location: [1, 2]
+  img: 'images/foods/chickenfeet.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+sushi:
+  title: 'Salmon Sushi'
+  location: [1, 3]
+  img: 'images/foods/sushi.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+burger:
+  title: 'Burger Patty'
+  location: [1, 4]
+  img: 'images/foods/burger.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+salmontube:
+  title: 'Salmon Tube'
+  location: [1, 5]
+  img: 'images/foods/salmontube.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+cricketpowder:
+  title: 'Cricket Powder'
+  location: [1, 6]
+  img: 'images/foods/cricketpowder.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+corn:
+  title: 'Corn'
+  location: [2, 1]
+  img: 'images/foods/corn.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+chickenbreast:
+  title: 'Chicken Breast'
+  location: [2, 2]
+  img: 'images/foods/chickenbreast.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+wine:
+  title: 'Wine'
+  location: [2, 3]
+  img: 'images/foods/wine.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+cheese:
+  title: 'Cheese'
+  location: [2, 4]
+  img: 'images/foods/cheese.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+nugget:
+  title: 'Nugget'
+  location: [2, 5]
+  img: 'images/foods/nugget.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+cakemix:
+  title: 'Cake mix'
+  location: [2, 6]
+  img: 'images/foods/cakemix.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+chocolateorange:
+  title: 'Chocolate orange'
+  location: [3, 1]
+  img: 'images/foods/chocolateorange.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+kamaboko:
+  title: 'Kamaboko'
+  location: [3, 2]
+  img: 'images/foods/kamaboko.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+invitromeat:
+  title: 'In-vitro meet'
+  location: [3, 3]
+  img: 'images/foods/invitromeat.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+gummy:
+  title: 'Gummy bears'
+  location: [3, 4]
+  img: 'images/foods/gummy.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+longegg:
+  title: 'Long egg'
+  location: [3, 5]
+  img: 'images/foods/longegg.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+soylent:
+  title: 'Solylent'
+  location: [3, 6]
+  img: 'images/foods/soylent.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+simulatedchicken:
+  title: 'Simulated chicken'
+  location: [4, 1]
+  img: 'images/foods/simulatedchicken.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+oatmilk:
+  title: 'Oat milk'
+  location: [4, 2]
+  img: 'images/foods/oatmilk.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+tomatosushi:
+  title: 'Tomato sushi'
+  location: [4, 3]
+  img: 'images/foods/tomatosushi.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+margarine:
+  title: 'Margarine'
+  location: [4, 4]
+  img: 'images/foods/margarine.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+spacefood:
+  title: 'Space food'
+  location: [4, 5]
+  img: 'images/foods/spacefood.png'
+  text: '''
+    This is the text for the cricket story
+    '''
+blueraspslurpy:
+  title: 'Blue raspberry slurpee'
+  location: [4, 6]
+  img: 'images/foods/blueraspslurpy.png'
+  text: '''
+    This is the text for the cricket story
+    '''

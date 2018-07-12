@@ -1,14 +1,18 @@
 var $document, $wrapper, h, w;
 
 $document = $(document).ready(function() {
-  $wrapper = $('.cricket');	// content jquery object
+  $wrapper = $('#wrapper');	// content jquery object
   $parallax = $('.parallax'); // layers with parallax
 	w = $(window).width();		// window width
-	h = $(window).height();		// window height
+  h = $(window).height();		// window height
+  
 });
 
+
+
+/*
 $document.on("mousemove", function(e) {
-	console.log(e.pageX, e.pageY);
+	// console.log(e.pageX, e.pageY);
 	var offsetX = 0.5 - e.pageX / w,	//cursor position X
     offsetY = 0.5 - e.pageY / h,	//cursor position Y
 		dy = e.pageY - h / 2,			//@h/2 = center of poster
@@ -26,7 +30,7 @@ $document.on("mousemove", function(e) {
 	$wrapper.css('transform', transformValue);
 
 	//parallax foreach layer
-	$layer.each(function() {
+	$parallax.each(function() {
 		var $this = $(this),
 			offsetLayer = $this.data('offset') || 0,
 			transformLayer = 'translateX(' + offsetX * offsetLayer + 'px) translateY(' + offsetY * offsetLayer + 'px)';
@@ -35,3 +39,4 @@ $document.on("mousemove", function(e) {
 	});
 
 });
+*/
