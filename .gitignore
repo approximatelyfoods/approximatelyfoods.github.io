@@ -1,4 +1,5 @@
 .vscode
 .cache
-dist
 _working
+#images/foods
+#images/products
