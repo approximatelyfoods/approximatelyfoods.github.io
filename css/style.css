@@ -64,3 +64,16 @@ a[href="index.html"]:hover {
   /* box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); */
   /* transform: scale(1.2); */
 }
+#popper-overlay {
+  position: absolute;
+  z-index: 10001;
+  background: #ebebeb;
+  display: none;
+  opacity: 0;
+  height: 100%;
+  width: 100%;
+  transition: opacity 0.2 linear;
+}
+#popper-overlay.visible {
+  opacity: 0.8;
+}
