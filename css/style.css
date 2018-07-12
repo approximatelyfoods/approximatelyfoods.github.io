@@ -44,15 +44,15 @@ header {
   transform: translateZ(40px);
 }
 a[href="index.html"] {
-  display: block;
-  width: 80px;
-  height: 40px;
+  /* display: block; */
+  /* width: 80px;
+  height: 40px; */
   /* background: url("../images/logo.svg"); */
-  background-size: 100%;
+  /* background-size: 100%; */
   background-position: 0 0;
   /* text-indent: -2000px; */
 }
-a[href="index.html"]:hover {
+a:hover {
   background-color: red;
   background-position: 0 40px;
 }
@@ -63,4 +63,9 @@ a[href="index.html"]:hover {
 .tips:hover {
   transition: 0.2s ease-out;
   transform: scale(1.2);
+}
+
+.sublines{
+  font-size: 1.3rem;
+  opacity:0.4;
 }
