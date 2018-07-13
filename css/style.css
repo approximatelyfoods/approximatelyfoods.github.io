@@ -64,7 +64,34 @@ a:hover {
   /* box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); */
   /* transform: scale(1.2); */
 }
-
+#popper-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10001;
+  background: #ebebeb;
+  display: none;
+  opacity: 0;
+  height: 100%;
+  width: 100%;
+  transition: opacity 0.2 linear;
+}
+#popper-overlay.visible {
+  display: block;
+  opacity: 0.8;
+  transition: opacity 0.2 linear;
+}
+#popper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10002;
+  display: none;
+  width: 100%;
+}
+#popper.visible {
+  display: block;
+}
 .about-text{
   font-size: 3.6rem;
 }
@@ -72,4 +99,3 @@ a:hover {
 .sublines{
   font-size: 1.3rem;
   opacity:0.4;
-}

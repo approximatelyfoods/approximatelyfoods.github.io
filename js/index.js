@@ -16,9 +16,14 @@ $(document).ready(function() {
       popper(foods[src]);
     });
   });
+  $('#popper').click(function() {
+    $(this).toggleClass('visible');
+  })
 });
 
 function popper(data) {
+  // $('#popper-overlay').toggleClass('visible');
+  $('#popper').toggleClass('visible');
   $('#popper-img').attr('src', data.img);
   $('#popper-title').text(data.title);
   $('#popper-text').text(data.text);
