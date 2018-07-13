@@ -2,7 +2,7 @@
   display: table;
   height: 100px;
   width: 100%;
-  background: white;
+  background: transparent;
 }
 .center-table p {
   display: table-cell;
@@ -93,3 +93,10 @@ a:hover {
 #popper.visible {
   display: block;
 }
+.about-text{
+  font-size: 3.6rem;
+}
+
+.sublines{
+  font-size: 1.3rem;
+  opacity:0.4;
