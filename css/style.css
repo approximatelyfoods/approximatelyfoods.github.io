@@ -2,7 +2,7 @@
   display: table;
   height: 100px;
   width: 100%;
-  background: white;
+  background: transparent;
 }
 .center-table p {
   display: table-cell;
@@ -63,6 +63,10 @@ a:hover {
   /* transform: translateZ(20px) !important; */
   /* box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); */
   /* transform: scale(1.2); */
+}
+
+.about-text{
+  font-size: 3.6rem;
 }
 
 .sublines{
