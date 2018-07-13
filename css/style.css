@@ -39,15 +39,15 @@ header {
   /* transform-style: preserve-3d; */
 }
 a[href="index.html"] {
-  display: block;
-  width: 80px;
-  height: 40px;
+  /* display: block; */
+  /* width: 80px;
+  height: 40px; */
   /* background: url("../images/logo.svg"); */
-  background-size: 100%;
+  /* background-size: 100%; */
   background-position: 0 0;
   /* text-indent: -2000px; */
 }
-a[href="index.html"]:hover {
+a:hover {
   background-color: red;
   background-position: 0 40px;
 }
@@ -66,6 +66,8 @@ a[href="index.html"]:hover {
 }
 #popper-overlay {
   position: absolute;
+  top: 0;
+  left: 0;
   z-index: 10001;
   background: #ebebeb;
   display: none;
@@ -75,5 +77,18 @@ a[href="index.html"]:hover {
   transition: opacity 0.2 linear;
 }
 #popper-overlay.visible {
+  display: block;
   opacity: 0.8;
+  transition: opacity 0.2 linear;
+}
+#popper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10002;
+  display: none;
+  width: 100%;
+}
+#popper.visible {
+  display: block;
 }
