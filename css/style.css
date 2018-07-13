@@ -118,6 +118,7 @@ header a:hover {
   transition: transform .2s ease-out;
   margin-bottom: 10px;
 }
+
 #foods-container .tips:hover, 
 #products-container .products img:hover {
   transform: scale(1.1);
