@@ -88,6 +88,7 @@ a:hover {
   z-index: 10002;
   display: none;
   width: 100%;
+  background: rgba(235,235,235, 0.8);
 }
 #popper.visible {
   display: block;

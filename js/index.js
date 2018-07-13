@@ -3,7 +3,7 @@ var foods;
 $(document).ready(function() {
   $.getJSON('data/foods.json', function(data) {
     foods = data;
-    console.log(data);
+    // console.log(data);
   });
 
   // hack to get the identifier of each element
@@ -18,7 +18,7 @@ $(document).ready(function() {
   });
   $('#popper').click(function() {
     $(this).toggleClass('visible');
-  })
+  });
 });
 
 function popper(data) {
