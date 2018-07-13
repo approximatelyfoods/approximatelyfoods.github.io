@@ -65,7 +65,7 @@ a:hover {
   /* transform: scale(1.2); */
 }
 #popper-overlay {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   z-index: 10001;
@@ -82,19 +82,19 @@ a:hover {
   transition: opacity 0.2 linear;
 }
 #popper {
-  position: absolute;
+  position: fixed;
+  height: 100%;
   top: 0;
   left: 0;
   z-index: 10002;
   display: none;
   width: 100%;
-  min-height: 100%;
   background: rgba(0,0,0, 0.6);
   padding: 80px 0;
 }
 #popper .container {
   background: #ebebeb;
-
+  width: 100%;
 }
 #popper.visible {
   display: block;
@@ -106,4 +106,29 @@ a:hover {
 .sublines{
   font-size: 1.3rem;
   opacity:0.4;
+}
+#popper h1 {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 600;
+  line-height: 1.8em;
+  font-size: 18px;
+}
+.typer {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 400;
+  line-height: 1.8em;
+  font-size: 18px;
+  color: #404040;
+}
+.typer::after {
+  content: '';
+  animation-duration: 1s;
+  animation-name: blink;
+  animation-iteration-count: infinite;
+  animation-timing-function: step-start;
+  opacity: 1;
+  border-right: 2px solid gray;
+}
+@keyframes blink {
+  50% {opacity: 0;}
 }

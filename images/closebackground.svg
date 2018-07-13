@@ -1,0 +1,19 @@
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In  -->
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="80px" height="80px" viewBox="0 0 80 80" style="enable-background:new 0 0 80 80;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+  .g:hover{
+    transform:rotate(45deg);
+  }
+</style>
+<defs>
+</defs>
+<rect class="st0" width="80" height="80"/>
+<g class="g">
+<line class="st1" x1="30.2" y1="49.8" x2="49.8" y2="30.2"/>
+<line class="st1" x1="49.8" y1="49.8" x2="30.2" y2="30.2"/>
+</g>
+</svg>

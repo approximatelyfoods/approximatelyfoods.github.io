@@ -8,7 +8,19 @@ $document = $(document).ready(function() {
   
 });
 
-
+function typer(text, target, speed){
+  var $target = $(target);
+  $target.text("");
+	var content = text.split("");
+  var i = 0;
+	function show(){
+		if(i < content.length) {		
+			$target.append(content[i]);
+			i++;
+		}
+	};
+	var timer = setInterval(show, speed);	
+};
 
 /*
 $document.on("mousemove", function(e) {
