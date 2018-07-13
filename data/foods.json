@@ -1,218 +1,238 @@
 {
   "cricket": {
-    "title": "Crickets",
+    "title": "Cricket",
+    "subtitle": "Domestication leads to acceptance",
     "location": [
       1,
       1
     ],
     "img": "images/foods/cricket.png",
-    "text": "Euryoryzomys emmonsae, Emmons's rice rat, is a rodent from the Amazon rainforest of Brazil in the genus Euryoryzomys of the family Cricetidae. Initially misidentified as E. macconnelli or E. nitidus, it was formally described in 1998. A ground-dwelling rainforest species, it may also be adapted to climbing trees. It occurs in a limited area south of the Amazon River in the state of Pará, a distribution that is apparently unique among the muroid rodents of the region."
+    "text": "Entomophagy, or the eating of insects, has been around since prehistoric times, and today is practiced by an estimate of 2 billion people in many regions across Latin America, Africa, Asia, and Oceania. In most of these food cultures, the insect is eaten whole, like the cricket (depicted).\n\nInsects is quite a real food with a long human history and even present widespread practice, but still it garners a strong aversion for people with Western diets. Today there is a growing Western media presence for entomophagy advocacy, but most brand’s portrayal of insect food products have been intentionally disassociated with the actual, full-bodied insect.\n"
   },
   "chickenfeet": {
     "title": "Chicken Feet",
+    "subtitle": "Cultural acceptance",
     "location": [
       1,
       2
     ],
     "img": "images/foods/chickenfeet.png",
-    "text": "This is the text for the cricket story"
+    "text": "Chicken is a prevalent animal meat in food cultures across the world. Certain parts like the breast, wing and legs, are commonly eaten directly in its dismembered form. Other parts like the head, feet (depicted), and innards, appear much less directly in actual form despite also being dismembered parts of chicken.\n\nIn Western food cultures, chicken feet are used frequently as food ingredients in stock soups and processed foods, but because they are rarely eaten directly, many consumers have a strong aversion to it and often do not consider it actually food.\n"
   },
   "sushi": {
-    "title": "Salmon Sushi",
+    "title": "Salmon sushi",
+    "subtitle": "Globalizing",
     "location": [
       1,
       3
     ],
     "img": "images/foods/sushi.png",
-    "text": "This is the text for the cricket story"
+    "text": "Salmon is arguably the most popular sushi in Western countries in which sushi is prevalent. However, salmon was historically not considered a suitable fish and even potentially dangerous  by Japanese sushi makers. Salmon sushi was actually a Norwegian invention, brought in the early 80’s to Japan to increase salmon quality perception and exports.\n\nSalmon has been effective for many people around the world to become familiar to eating raw fish, due to its ‘simple’ texture and fatty taste. It is not a ‘real’ or ‘original’ sushi, but it has become probably the most depicted and common image of sushi today.\n"
   },
   "burger": {
-    "title": "Burger Patty",
+    "title": "Beef patty",
+    "subtitle": "Industrialization Standards",
     "location": [
       1,
       4
     ],
     "img": "images/foods/burger.png",
-    "text": "This is the text for the cricket story"
+    "text": "The Mongol army in early 1200s placed slabs of lamb and mutton under their horse saddles as they rode into battle in order to tenderize the meat, creating an uncooked beef patty. The French dish beef tartare, is thought to have been a reference to the Mongols who ate uncooked beef (tartar refers to Mongols).\n\nNow beef patties are one of the main way in which we consume beef in highly industrialized societies. Typical beef patties sold in supermarkets may compromise of meat coming from hundreds of different cows, and contain approximately half of what typically is defined as meat. \n"
   },
   "salmontube": {
-    "title": "Salmon Tube",
+    "title": "Fish in a tube",
+    "subtitle": "Preserving and Fermenting",
     "location": [
       1,
       5
     ],
     "img": "images/foods/salmontube.png",
-    "text": "This is the text for the cricket story"
+    "text": "While it might look like toothpaste, caviar or preserved fish in a tube is a common product in Scandinavian countries. The most famous company producing it, Kalle’s Kaviar, proudly advertises it as a disgusting thing and ‘not a food’ for many. Many types of fermented fish are eaten across northern Europe, including the famous Stinky Fish or Surströmming, and the Gravlax. \n\nFermented, dried, and salted dish were methods for food preservation developed a long time ago, and remains one the most widespread and common practices today. While not always in a tube, preserved and fermented fish is a ‘real’ important food to human history and still is today, though some food cultures have forgotten the taste of fermented fish. \n"
   },
   "cricketpowder": {
-    "title": "Cricket Powder",
+    "title": "Chicken salt",
+    "subtitle": "The essence without the source",
     "location": [
       1,
       6
     ],
     "img": "images/foods/cricketpowder.png",
-    "text": "This is the text for the cricket story"
+    "text": "Chicken salt first appeared in the 1970s in Australia, and has developed a cult status among eaters, appearing in many popular fast casual restaurants around the world. The seasoning was developed to enhance the flavor in rotisserie chickens and was also used to add the umami flavor in other non-chicken foods. \n\nThe original chicken salt was made by roasting, braising, drying and salting the chicken, and then processing it into a grainy consistency to be used as seasoning. Today, it is common to find chicken salt with no actual chicken in it.\n"
   },
   "corn": {
     "title": "Corn",
+    "subtitle": "Breeding and genetic modification",
     "location": [
       2,
       1
     ],
     "img": "images/foods/corn.png",
-    "text": "This is the text for the cricket story"
+    "text": "Corn is the most produced grain around the world, more than that of wheat or rice. It is a staple food product in many parts of the world and is also a versatile industrial product beyond its use as human food, which according to the USDA accounts for only 2.7% of total production.\n\nThe modern corn has undergone thousands of years of breeding and more recently, genetic modification, in order to achieve higher yields and enhanced usage. The whole corn, despite being a whole food, is arguably the most artificial plant species made by man.\n"
   },
   "chickenbreast": {
-    "title": "Chicken Breast",
+    "title": "Chicken breast",
+    "subtitle": "Distorted food",
     "location": [
       2,
       2
     ],
     "img": "images/foods/chickenbreast.png",
-    "text": "This is the text for the cricket story"
-  },
-  "wine": {
-    "title": "Wine",
-    "location": [
-      2,
-      3
-    ],
-    "img": "images/foods/wine.png",
-    "text": "This is the text for the cricket story"
+    "text": "The popularization of chicken breast in the U.S. began in 1948 with the “Chicken of Tomorrow” contest organized by the USDA with the support of major poultry organizations in the country. The contest created not only a profoundly larger chicken breast sold in supermarkets, but also a price-competitive cut of chicken that packaged food brands and restaurants helped to popularize. Today, the chicken breast is bred and selected genetically for larger breasts, as it is in highly demand in Western food cultures.\n\nElsewhere in the world where the chicken was also domesticated as a important animal meat, the breast rarely is a sought after cut. In China, for example, red meat is still predominantly the preferred cut, and one would be hard-pressed to find large chicken breast filets like the one depicted.\n"
   },
   "cheese": {
-    "title": "Cheese",
+    "title": "Processed cheese",
+    "subtitle": "Percentages of 'food'",
     "location": [
       2,
       4
     ],
     "img": "images/foods/cheese.png",
-    "text": "This is the text for the cricket story"
+    "text": "In 1903, Robert Kraft sold pre-sliced and pre-packaged cheese to beat out his competitors who sold cheese on the same street. Processed cheese was later developed to serve the military and then reappear in its single slice form in the 1950s. At first, the single sliced cheese was sold stacked atop one another, but it was misunderstood to be used as a single block, hence the plastic wrapping was introduced to show the convenience of the product.\n\nMany processed cheese products today might contain less than half of actual cheese. In some products like the Cheese Wiz (a spreadable ‘cheese’ in a can), no actual cheese is contained within.\n\nhttps://gizmodo.com/is-there-any-real-cheese-in-cheese-whiz-1681322493\n"
   },
   "nugget": {
-    "title": "Nugget",
+    "title": "Chicken nugget",
+    "subtitle": "Convenience and kids",
     "location": [
       2,
       5
     ],
     "img": "images/foods/nugget.png",
-    "text": "This is the text for the cricket story"
+    "text": "Invented in the 1950s as part of an academic research to demonstrate ways of keeping ground meat intact, it became a product in the 1980s from a collaboration between Tyson and McDonalds. It is arguably the most well-known ‘kid’s food’ and served as an archetype for the color, cheap and easy approaches to encourage kids to eat meat that started in the 1970s.\n\nThe first nugget was approximately shaped like a chicken, but later it was decided by McDonalds to create four specific shapes (boot, bone, bell and bone), to ensure even cooking and create more fun and variation for kids. \n"
   },
   "cakemix": {
-    "title": "Cake mix",
+    "title": "Cake",
+    "subtitle": "Convenience with a human touch",
     "location": [
       2,
       6
     ],
     "img": "images/foods/cakemix.png",
-    "text": "This is the text for the cricket story"
+    "text": "The cake mix is a product of convenience and of perceived cooking and creativity. Cake mixes were invented in the 30s to help people in tough times to cheaply and quickly be able to ‘just have a cake’. This quickly redefined what baking meant as baking from scratch actually meant baking from a mix.\n\nIn the post Second world war, American women wanted to feel more involved in the cake-baking process the cakes that required an egg to be added gave a sense of actually baking and the additional frosting allowed for a feeling of creating without actually baking for real.\n\nhttps://www.bonappetit.com/entertaining-style/pop-culture/article/cake-mix-history\n"
   },
   "chocolateorange": {
     "title": "Chocolate orange",
+    "subtitle": "Skeuomorphism",
     "location": [
       3,
       1
     ],
     "img": "images/foods/chocolateorange.png",
-    "text": "This is the text for the cricket story"
+    "text": "Terry’s Chocolate Orange is a chocolate candy made in England in the 1930s. It is shaped like an orange, made with chocolate, and flavored with orange oil. It is cut like an orange so that it could be consumed as slices, the same way an orange would be consumed. \n\nThe Chocolate Orange is an example of skeuomorphism, a deliberate design of a product to approximate that of another thing. This technique is used to create a comfort and familiarity with the hopes of garnering greater acceptance of the product.\n"
   },
   "kamaboko": {
-    "title": "Kamaboko",
+    "title": "Kamaboko Fish Cake",
+    "subtitle": "Imitation",
     "location": [
       3,
       2
     ],
     "img": "images/foods/kamaboko.png",
-    "text": "This is the text for the cricket story"
+    "text": "Kamaboko is commonly used in Japanese udon soups and is also popular in its digital emoji form. Kamaboko are fish cakes made of Surimi (ground fish) cured and processed in various colors and forms. It was supposedly shaped in early times in Japan using a bamboo stick to avoid the need of eating fish on a plate.\n\nThe base of Kaboko, Surimi, also known as imitation or mock crab, is often referred to as seafood stick to avoid confusion. Made of many different larger fish is often use to imitate crabs, scallops or squids or even to offer a kosher alternative to shrimp and crabmeat.\n"
   },
   "invitromeat": {
-    "title": "In-vitro meet",
+    "title": "Clean meat",
+    "subtitle": "Modern processing",
     "location": [
       3,
       3
     ],
     "img": "images/foods/invitromeat.png",
-    "text": "This is the text for the cricket story"
+    "text": "Clean meat, also known as cultured, in-vitro, and synthetic meat, is a form of cellular agriculture that uses tissue engineering techniques to produce meat from meat cells in labs rather than from actual animals. Clean meat is not to be confused with plant-based meat alternatives, which do not use animal cells in its production. \n\nSeveral notable companies have achieved proof of the product concept, but no commercially-viable product has yet entered the market. Still, the debate has begun for just how ‘real’ or not is this type of processed meat.\n"
   },
   "gummy": {
-    "title": "Gummy bears",
+    "title": "Gummy bear ",
+    "subtitle": "Fantasy",
     "location": [
       3,
       4
     ],
     "img": "images/foods/gummy.png",
-    "text": "This is the text for the cricket story"
+    "text": "Gummy bear is a gelatin-based, fruit-flavored candy shaped into cartoonish bears. The candy was invented by Hans Riegel, Sr., founder of Haribo in the 1920s in Germany. According to the company, it produces 100 million gummy bears each day.\n\nThe Haribo gummy bear was the first in a category of gelatin-based candies that are popular around the world today. Gelatin is a flavorless food derived from collagen extracted from animal body parts, typically those that are discarded from other food manufacturing processes.\n"
   },
   "longegg": {
     "title": "Long egg",
+    "subtitle": "Logically Shaped",
     "location": [
       3,
       5
     ],
     "img": "images/foods/longegg.png",
-    "text": "This is the text for the cricket story"
+    "text": "The long egg was first produced in Denmark to help catering and airline industries to use sliced eggs in sandwiches and salads. A long egg machine was developed to create perfectly straight 20cm thick egg slices without waste. The long egg, contrary to what it might seem, is actually made of real eggs, first separated in white and yellow parts and reassembled in the form of a long continuous cylinder shape.\n\nThe aesthetic of a perfect egg slice in a sandwich and the convenience of preparing it drove industries to rethink the egg. It is artificial in shape but real in terms of ingredient. \n"
   },
   "soylent": {
-    "title": "Solylent",
+    "title": "Soylent",
+    "subtitle": "",
     "location": [
       3,
       6
     ],
     "img": "images/foods/soylent.png",
-    "text": "This is the text for the cricket story"
+    "text": "Soylent is marketed as a meal-replacement food product with all the nutritional requirements needed for an average adult. It is mainly composed of maltodextrin, rice protein and oat flour along with vitamins and minerals. It was created by a software engineer, Rob Rhinehart, whose motivation was to a quick and cheap food solution while working on a software startup backed by well-known investor Y-Combinator. \n\nSoylent was launched in 2014 and has powder, drink and bar versions of the product. The product has garnered strong media coverage for its stance on what food is, for its advocacy of genetically modified foods, and also for being backed by well-known investors. \n"
   },
   "simulatedchicken": {
-    "title": "Simulated chicken",
+    "title": "Mock Chicken Stick",
+    "subtitle": "Inclusive and Religious Simulation",
     "location": [
       4,
       1
     ],
     "img": "images/foods/simulatedchicken.png",
-    "text": "This is the text for the cricket story"
+    "text": "Faux or mock meats were made as an act of hospitality since the 10th century in China by Buddhist monks. It was intended as an inclusive food that vegetarian monks cook for their carnivore visitors, without anyone feeling left out. In China, the usage of tofu, mushroom and fruits to simulate meats pre-dates the first instance of vegetarian sausages in the West by more than 600 years.\n\nWhile the plant-based foods industry is ‘new’ and maybe controversial, we have been trying to mock ourselves to eat meats for centuries already.\n\nhttps://www.sbs.com.au/food/article/2017/12/11/why-you-should-give-mock-meats-chance\n\n"
   },
   "oatmilk": {
     "title": "Oat milk",
+    "subtitle": "",
     "location": [
       4,
       2
     ],
     "img": "images/foods/oatmilk.png",
-    "text": "This is the text for the cricket story"
+    "text": "Oat milk is a non-dairy milk substitute processed from oats. It is most commonly used as a replacement for traditional milk and cream with coffee. Oatly, a Swedish company, helped to popularize its use in the US by selling to specialty-coffee shops.\n\nOat milk is but one example in a list of milk substitutes, including soy milk, almond milk, cashew milk, pea milk, and coconut milk. Milk substitutes previously were used mainly for by the lactose intolerant, and the recent growth in options have been driven by advocates for animal welfare and environmental sustainability. Skeptics remind that oat milk is a highly processed beverage compared to traditional dairy milk.\n"
   },
   "tomatosushi": {
-    "title": "Tomato sushi",
+    "title": "Tomato tuna (SIMO)",
+    "subtitle": "Sustainable Simulations",
     "location": [
       4,
       3
     ],
     "img": "images/foods/tomatosushi.png",
-    "text": "This is the text for the cricket story"
+    "text": "Ahimi, or tomato tuna, is a tomato-based tuna substitute for ‘real’ tuna in sushi. Cured and sous vide tomatoes can approximate the texture and umami flavor of tuna. This has kicked off other companies to create similar products like eggplant-based eels or ‘clean’ fish made from fish cells.\n\nWhile salmon and tuna helped to introduce people to eat more fresh and raw fish, it has also contributed to overfishing and the risks of extinctions for certain species. Dolphin-free fish and also fish-free fish has the intention to solve this, but would plant-based or a lab-grown options taste more like fish?\n\nhttps://www.npr.org/sections/thesalt/2015/01/23/379124798/will-environmentalists-fall-for-faux-fish-made-from-plants\n"
   },
   "margarine": {
     "title": "Margarine",
+    "subtitle": "",
     "location": [
       4,
       4
     ],
     "img": "images/foods/margarine.png",
-    "text": "This is the text for the cricket story"
+    "text": "Margarine was invented by chemist Hippolyte Mège-Mouriès in France in 1869, responding to Emperor Napoleon III’s challenge to find an cheaper alternative to butter for the lower classes and army. It was first supposed to be pink, to be clearly distinguished from butter, but it then kept its butter-like image.\n\nModern margarine is made using vegetable oils and water. The plant-based substitute for butter is a highly processed food similar to other plant-based substitutes for milk. However, the same proponents supporting plant-based milk substitutes also are critics of margarine. \n"
   },
   "spacefood": {
     "title": "Space food",
+    "subtitle": "Functional abstraction",
     "location": [
       4,
       5
     ],
     "img": "images/foods/spacefood.png",
-    "text": "This is the text for the cricket story"
+    "text": "The history of space food started when space travel began to last longer than a few minutes. In 1960, the first dried and semi-liquids foods were developed for consumption by astronauts in space. The limits and differences of space traveling necessitated food to be small, lightweight, sterile, 100% nutritious and sticky to avoid it flying away.\n\nMany packaging, cooking and heating technologies that were developed were commercialized for the mass market. Many food engineers have attempted to replicate for astronauts ‘normal’ food experiences, but it is also interesting to imagine what ‘real’ foods grown in space or other planets might look and taste like. \n\nhttps://www.nasa.gov/audience/forstudents/postsecondary/features/F_Food_for_Space_Flight.html\nhttps://www.fiatphysica.com/blog/space/history-and-future-space-food\nhttp://di13.rca.ac.uk/project/martian-terroir/\n"
   },
   "blueraspslurpy": {
-    "title": "Blue raspberry slurpee",
+    "title": "Blue-raspberry",
+    "subtitle": "Beyond Real",
     "location": [
       4,
       6
     ],
     "img": "images/foods/blueraspslurpy.png",
-    "text": "This is the text for the cricket story"
+    "text": "Despite health concerns over artificial color dyes during the time, ICEE launched in the 1970s a blue-raspberry flavor and color. The choice was actually mostly marketing-driven as blue was highly visible and distinguishable compared to the red of the brand.\n\nWhile there is a blue colored raspberry in nature, called the white bark raspberry, blue raspberry was intentionally designed to be a flashy and sweet taste to attract children. Nadia Berenstein one of the world experts on flavoring said, “don't compare it to something that grows out of the ground. Don't ask the question whether blue raspberry tastes like real raspberries. That's beside the point.”\n\nhttps://www.bonappetit.com/entertaining-style/pop-culture/article/what-is-blue-raspberry-flavor\n"
+  },
+  "beer": {
+    "title": "Beer",
+    "subtitle": "Natural and non-natural",
+    "img": "images/foods/beer.png",
+    "text": "Beer is an alcoholic drink made from water, barley malt, hops and yeast. The earliest trace of beer date back around 7,000 years in Iran, making it one of the oldest beverages known. It is also one of the earliest known applications of fermentation. \n\nThe simple idea of using yeast to convert sugar to alcohol to produce beer has been carried out for millennia, however many breweries of today continue to obtain commercially useful patent protections concerning combinations, strains and ways of treating yeast as well as genetic modifications of it. While fermentation is a age old an seemingly natural and home made process, at the industrial scale is far from it.\n"
   }
 }

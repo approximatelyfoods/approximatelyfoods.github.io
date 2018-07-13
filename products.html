@@ -15,67 +15,81 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
   <link rel="stylesheet" href="css/style.css">
-  <script type="text/javascript" src="js/tooltips.js"></script>
-  <script type="text/javascript" src="js/tippy.all.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/main.js"></script>
+  <script type="text/javascript" src="js/products.js"></script>
+  <!-- <script type="text/javascript" src="js/tippy.all.js"></script> -->
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="images/favicon.png">
 
 </head>
-<body><div id="wrapper">
-  <header>
-  <div class="container"style="margin-top: 2%">
+<body class="products"><div id="wrapper">
+  <header class="container">
     <div class="row">
-      <div class="three columns"><a href="index.html" class="menu"> ~ approximately foods</a></div>
-      <div class="two offset-by-five columns" style="text-align:left; font-weight:bold;"><a href="products.html">~ products</div>
-      <div class="two columns" style="text-align:right"> <a href="about.html">~ philosophy</a> </div>
+      <ul class="twelve columns">
+        <li><a href="index.html">Approximately foods</a></li>
+        <li><a href="products.html">Products</a></li>
+        <li><a href="about.html">Manifesto</a></li>
+      </ul>
     </div>
-    <div class="row">
-      <p class="sublines"> exploring the in between real/not real foods.</p>
-    </div>
-    <!-- <div class="row"><div class="two columns"> <p>Exploring the gradients of approaximation of food.</p></div></div> -->
-  </div>
   </header>
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <div class="container">
+  <div id="products-container" class="container">
     <div class="row">
-      <div class="two columns" ><p> ~ c </br> <span class="sublines">gradients of chicken-ness</span></p></div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>=chicken_feet</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>≈chicken_head</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>≈chicken_feet</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>>chicken_wing</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>≡chicken_smell</p> </div>
+      <!-- <div class="offset-by-one column" ><p> ~ c </br> <span class="sublines">gradients of chicken-ness</span></p></div> -->
+      <div class="offset-by-one two columns" class="products"> <img src="images/products/chicken_feet.jpg" width="100%" height="100%"><p>=chicken_feet</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/chicken_head.jpg" width="100%" height="100%"><p>≈chicken_head</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/chicken_fakefeet.jpg" width="100%" height="100%"><p>≈chicken_feet</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/chicken_wing.jpg" width="100%" height="100%"><p>>chicken_wing</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/chicken_smell.jpg" width="100%" height="100%"><p>≡chicken_smell</p> </div>
     </div>
     <div class="row">
-      <div class="two columns" ><p> ~ f</br> <span class="sublines">gradients of fish-ness</span></p></div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>=fish_head</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>≈fish_head</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>>boneless_fish</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>>fish_fillet</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>≡fish_smell</p> </div>
+      <!-- <div class="offset-by-one column" ><p> ~ f</br> <span class="sublines">gradients of fish-ness</span></p></div> -->
+      <div class="offset-by-one two columns" class="products"> <img src="images/products/fish_head.jpg" width="100%" height="100%"><p>=fish_head</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/fish_broth.jpg" width="100%" height="100%"><p>≈fish_head</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/fish_boneless.jpg" width="100%" height="100%"><p>>boneless_fish</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/fish_fillet.jpg" width="100%" height="100%"><p>>fish_fillet</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/fish_smell.jpg" width="100%" height="100%"><p>≡fish_smell</p> </div>
     </div>
-
     <div class="row">
-      <div class="two columns" ><p> ~ s </br> <span class="sublines">gradients of silkworm-ness</span></p></div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>=silkworm</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>≈silkworm</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>>silkworm_cocoon</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>>silkworm_larvae</p> </div>
-      <div class="two columns" class="products"> <img src="images/products/packaging.png" width="100%" height="100%"><p>≡silkworm_oil</p> </div>
+      <!-- <div class="offset-by-one column" ><p> ~ s </br> <span class="sublines">gradients of silkworm-ness</span></p></div> -->
+      <div class="offset-by-one two columns" class="products"> <img src="images/products/silkworm_whole.jpg" width="100%" height="100%"><p>=silkworm</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/silkworm_polestick.jpg" width="100%" height="100%"><p>>silkworm_cocoon</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/silkworm_cocoonsnack.jpg" width="100%" height="100%"><p>>silkworm_larvae</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/silkworm_caviar.jpg" width="100%" height="100%"><p>≈silkworm</p> </div>
+      <div class="two columns" class="products"> <img src="images/products/silkworm_oil.jpg" width="100%" height="100%"><p>≡silkworm_oil</p> </div>
     </div>
 
   </div>
 
+  <div id="popper">
+      <div class="container">
+          <!-- <div class="row">
+              <div class="one column offset-by-eleven"><a href="#" id="popper-close">close</a></div>
+          </div> -->
+          <div class="row">
+            <div class="eight columns popper-img">
+              <img id="popper-img" src="#" alt="" width="100%" height="100%">
+            </div>
+            <div class="four columns popper-content">
+              <h2 id="popper-title"></h2>
+              <pre id="popper-text"></pre>
+            </div>
+          </div>
+          <img id="popper-close" src="images/close.svg" alt="Close">
+        </div>
+    </div>
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </div></body>

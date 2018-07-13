@@ -16,12 +16,15 @@ $(document).ready(function() {
       popper(foods[src]);
     });
   });
-  $('#popper').click(function() {
+  var $popper = $('#popper').click(function() {
     $(this).toggleClass('visible');
+  });
+  $('#popper-close').click(function() {
+    $popper.toggleClass('visible');
   });
   $('#popper .container').click(function(e) {
     e.stopPropagation();
-  })
+  });
 });
 
 function popper(data) {
@@ -29,11 +32,13 @@ function popper(data) {
   $('#popper').toggleClass('visible');
   $('#popper-img').attr('src', data.img);
   $('#popper-title').text(data.title);
-  $('#popper-text').text("");
-  setTimeout(function() {
-    typer(data.text, "#popper-text", 1.5)
-  }, 200); 
-  
+  if (!!data.subtitle) {
+    $('#popper-subtitle').text(data.subtitle);
+  }
+  $('#popper-text').text(data.text);
+  // setTimeout(function() {
+  //   typer(data.text, "#popper-text", 1)
+  // }, 200); 
 }
 
 /*

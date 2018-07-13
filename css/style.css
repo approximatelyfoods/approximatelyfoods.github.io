@@ -20,50 +20,52 @@ body {
   /* perspective-origin: center; */
   /* transform-style: preserve-3d; */
   background-color: #ebebeb;
+  margin-top: 40px;
 }
-#wrapper {
-  /* background: url("../images/grid3.svg"); */
-  /* min-height: 100%; */
-  /* margin: -40px; */
-  /* padding: 100px 40px; */
-  /* text-rendering: optimizeLegibility; */
-  /* transform-style: preserve-3d; */
-  /* transform: translateZ(-40px); */
-  /* transform: rotateX(10deg) rotateY(10deg); */
+/* #wrapper {
+  background: url("../images/grid3.svg");
+  min-height: 100%;
+  margin: -40px;
+  padding: 100px 40px;
+  text-rendering: optimizeLegibility;
+  transform-style: preserve-3d;
+  transform: translateZ(-40px);
+  transform: rotateX(10deg) rotateY(10deg);
+} */
+
+/* Header */
+header, header.container {
+  margin-bottom: 20px;
+  font-size: 10px;
 }
-header {
-  height: 80px;
+header ul {
+  list-style-type: none;
 }
-.container {
-  /* transform: translateZ(40px); */
-  /* transform-style: preserve-3d; */
+header li {
+  margin: 0;
 }
-a[href="index.html"] {
+header a {
+  color: black;
+  text-transform: uppercase;
   /* display: block; */
-  /* width: 80px;
-  height: 40px; */
-  /* background: url("../images/logo.svg"); */
-  /* background-size: 100%; */
-  background-position: 0 0;
-  /* text-indent: -2000px; */
+  text-decoration: none;
+  font-weight: 600;
 }
-a:hover {
-  background-color: red;
-  background-position: 0 40px;
+.index header a[href="index.html"], 
+.products header a[href="products.html"],
+.about header a[href="about.html"] {
+  /* text-decoration: underline; */
 }
-.tips {
-  /* transition: 0.2s ease-out; */
-  display: block;
+header a:hover {
+  border-bottom: 2px solid gray;
+  margin-bottom: -2px;
 }
-.tips:hover {
-  /* transition: transform 0.2s ease-out; */
-  border: 1px solid #ccc;
-  margin: -1px;
-  /* background: white; */
-  /* transform: translateZ(20px) !important; */
-  /* box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2); */
-  /* transform: scale(1.2); */
-}
+
+/* .container {
+  transform: translateZ(40px);
+  transform-style: preserve-3d;
+} */
+
 #popper-overlay {
   position: fixed;
   top: 0;
@@ -89,12 +91,15 @@ a:hover {
   z-index: 10002;
   display: none;
   width: 100%;
-  background: rgba(0,0,0, 0.6);
+  /* background: rgba(0,0,0, 0.6); */
+  /* background: #fff; */
   padding: 80px 0;
 }
 #popper .container {
-  background: #ebebeb;
-  width: 100%;
+  background: #fff;
+  width: 67%;
+  padding-bottom: 40px;
+  border: 15px solid black;
 }
 #popper.visible {
   display: block;
@@ -102,25 +107,52 @@ a:hover {
 .about-text{
   font-size: 3.6rem;
 }
-
 .sublines{
   font-size: 1.3rem;
   opacity:0.4;
 }
-#popper h1 {
-  font-family: 'IBM Plex Mono', monospace;
+
+.tips, 
+.products img {
+  display: block;
+  transition: transform .2s ease-out;
+  margin-bottom: 10px;
+}
+#foods-container .tips:hover, 
+#products-container .products img:hover {
+  transform: scale(1.1);
+  /* border: 1px solid black; */
+  /* margin: -1px; */
+  cursor: pointer;
+}
+.products p {
+  font-size: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600;
+}
+#popper h2 {
+  font-family: 'IBM Plex Sans', sans-serif;
   font-weight: 600;
   line-height: 1.8em;
-  font-size: 18px;
+  font-size: 24px;
+  text-transform: uppercase;
+  margin-bottom: 0;
 }
-.typer {
+#popper-subtitle {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 12;
+  text-transform: uppercase;
+  margin-bottom: .4em;
+}
+.typer, #popper-text {
   font-family: 'IBM Plex Mono', monospace;
   font-weight: 400;
   line-height: 1.8em;
-  font-size: 18px;
+  font-size: 10px;
   color: #404040;
 }
-.typer::after {
+/* .typer::after {
   content: '';
   animation-duration: 1s;
   animation-name: blink;
@@ -128,7 +160,30 @@ a:hover {
   animation-timing-function: step-start;
   opacity: 1;
   border-right: 2px solid gray;
-}
+} */
 @keyframes blink {
   50% {opacity: 0;}
+}
+#popper pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.products #popper .popper-img {
+  padding: 40px 0 40px 40px;
+}
+.products #popper .popper-content {
+  padding: 40px 40px 40px 0;
+}
+/* .products #popper .popper-img */
+.index #popper h2 {
+  margin-top: 40px;
+}
+.index #popper-img {
+  margin-top: 60px
+}
+#popper-close {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  z-index: 10003;
 }

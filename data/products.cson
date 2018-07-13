@@ -1,0 +1,193 @@
+chicken_feet:
+  title: 'Chicken feet'
+  img: 'images/products/chicken_feet_full.jpg'
+  text: '''
+    Actually eating: Chicken feet.
+
+    100% made of
+    100% taste like
+    100% looks like
+
+    Description: A spicy snack for the late nights.
+    '''
+chicken_head:
+  title: 'Chicken head'
+  img: 'images/products/chicken_head_full.jpg'
+  text: '''
+    Actually eating: Pigeon head (with neck skin), chicken breast, chicken thigh, pigeon breast, light soy sauce, salt, black pepper.
+
+    50% made of
+    50% taste like
+    90% looks like
+
+    Description: The ultimate by-product. Repurposed.
+
+    '''
+chicken_fakefeet:
+  title: 'Chicken simulated feet'
+  img: 'images/products/chicken_fakefeet_full.jpg'
+  text: '''
+    Actually eating: Chicken broth (pigeon bones, chicken bones, salt, water, thyme), Gelatine (E441).
+
+    20% made of
+    30% taste like
+    50% looks like 
+
+    Description: A sustainable replica of chicken chewiness. 
+
+    '''
+chicken_wing:
+  title: 'Chicken wing'
+  img: 'images/products/chicken_head_full.jpg'
+  text: '''
+    Actually eating: Chicken skin,chicken thigh, chicken breast, transglutaminase (1EVU), salt, black pepper.
+
+    50% made of
+    120% taste like
+    50% looks like 
+
+    Description: Chicken wings by the meter.
+
+    '''
+chicken_smell:
+  title: 'Chicken smell'
+  img: 'images/products/chicken_smell_full.jpg'
+  text: '''
+    Actually eating: artificial chicken aroma. 
+
+    0% made of
+    100% taste like
+    0% looks like 
+
+    Description: A taste for the ones that don’t want to kill.
+
+    '''
+fish_head:
+  title: 'Fish head'
+  img: 'images/products/fish_head_full.jpg'
+  text: '''
+    Actually eating: fish head.
+
+    100% made of
+    100% taste like
+    100% looks like
+
+    Description: A delicacies for the soups of many.
+
+    '''
+fish_broth:
+  title: 'Approximately fish head'
+  img: 'images/products/chicken_broth_full.jpg'
+  text: '''
+    Actually eating: fish broth (water, fish bone, celery, leek, white wine, salt, black pepper, garlic, laurel), gelatine (E441), agar agar (E406), pickled green chilli, fish bones.
+
+    70% made of
+    80% taste like
+    20% looks like
+
+    Description: In-between head and soup.
+    '''
+fish_boneless:
+  title: 'Bone-in boneless fish'
+  img: 'images/products/fish_boneless_full.jpg'
+  text: '''
+    Actually eating:
+    ...
+
+    60% made of
+    80% taste like
+    30% looks like
+
+    Description: An educational for bone-in fish eating device.
+
+    '''
+fish_fillet:
+  title: 'Fish fillet'
+  img: 'images/products/fish_fillet_full.jpg'
+  text: '''
+    Actually eating: salmon skin (10%), salmon belly (30%), salmon loin (15%), seabream loin (30%), silver cod loin (15%), transglutaminase (1EVU) (<1%)
+
+    100% made of
+    120% taste like
+    80% looks like
+
+    Description: An impossible and perfect bite of fish.
+
+    '''
+fish_smell:
+  title: 'Fish smell'
+  img: 'images/products/fish_smell_full.jpg'
+  text: '''
+    Actually eating: artificial fish aroma.
+
+    0% made of
+    100% taste like
+    0% looks like
+
+    Description: The essence of the fish we think is fish.
+
+    '''
+silkworm_whole:
+  title: 'Silkworm'
+  img: 'images/products/silkworm_whole_full.jpg'
+  text: '''
+    Actually eating: Silkworm.
+
+    100% made of
+    100% taste like
+    100% looks like
+
+    Description: The prospective future staple.
+
+    '''
+silkworm_polestick:
+  title: 'Silkworm on a stick'
+  img: 'images/products/silkworm_polestick_full.jpg'
+  text: '''
+    Actually eating: Flour, salted butter, egg, silkworm flour.
+
+    30% made of
+    50% taste like
+    50% looks like
+
+    Description: A not so wormy, worm biscuit.
+
+    '''
+silkworm_cocoonsnack:
+  title: 'Silkworm cocoon snack'
+  img: 'images/products/silkworm_cocoonsnack_full.jpg'
+  text: '''
+    Actually eating:Sugar, cashew nuts, silkworm flour.
+
+    10% made of
+    10% taste like
+    80% looks like
+
+    Description: A hyper-realistic edible cocoon for vermiphobia. 
+
+    '''
+silkworm_caviar:
+  title: 'Silkworm caviar'
+  img: 'images/products/silkworm_caviar_full.jpg'
+  text: '''
+    Actually eating: Silkworm flour, water, salt, sodium alginate, calcium.
+
+    50% made of
+    120% taste like
+    80% looks like
+
+    Description: A delicacy for the entomophagy connoisseur.
+
+    '''
+silkworm_oil:
+  title: 'Silkworm oil'
+  img: 'images/products/silkworm_oil_full.jpg'
+  text: '''
+    Actually eating: Silkworm.
+
+    100% made of
+    0% taste like
+    0% looks like
+
+    Description: Hydrolyzed worm essence.
+    '''
