@@ -66,6 +66,42 @@ header a:hover {
   transform-style: preserve-3d;
 } */
 
+.about-text{
+  font-size: 2.5rem;
+}
+.sublines{
+  font-size: 1.3rem;
+  opacity:0.4;
+}
+.credits {
+  font-size: 1.2rem;
+  color: darkgray;
+  margin: 4rem 0 8rem 0;
+}
+
+.tips, 
+.products img {
+  display: block;
+  transition: transform .2s ease-out;
+  margin-bottom: 10px;
+}
+
+#foods-container .tips:hover, 
+#products-container img:hover {
+  transform: scale(1.1);
+  /* border: 1px solid black; */
+  /* margin: -1px; */
+  cursor: pointer;
+}
+.products p {
+  font-size: 10px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* Popper and content styles */
+
 #popper-overlay {
   position: fixed;
   top: 0;
@@ -95,42 +131,17 @@ header a:hover {
   /* background: #fff; */
   padding: 80px 0;
 }
+#popper.visible {
+  display: block;
+}
 #popper .container {
   background: #fff;
   width: 67%;
   padding-bottom: 40px;
   border: 15px solid black;
 }
-#popper.visible {
-  display: block;
-}
-.about-text{
-  font-size: 3.6rem;
-}
-.sublines{
-  font-size: 1.3rem;
-  opacity:0.4;
-}
-
-.tips, 
-.products img {
-  display: block;
-  transition: transform .2s ease-out;
-  margin-bottom: 10px;
-}
-
-#foods-container .tips:hover, 
-#products-container .products img:hover {
-  transform: scale(1.1);
-  /* border: 1px solid black; */
-  /* margin: -1px; */
-  cursor: pointer;
-}
-.products p {
-  font-size: 10px;
-  text-transform: uppercase;
-  text-align: center;
-  font-weight: 600;
+.products #popper .container {
+  padding-top: 40px;
 }
 #popper h2 {
   font-family: 'IBM Plex Sans', sans-serif;
@@ -139,6 +150,9 @@ header a:hover {
   font-size: 24px;
   text-transform: uppercase;
   margin-bottom: 0;
+}
+.index #popper h2 {
+  margin-top: 40px;
 }
 #popper-subtitle {
   font-family: 'IBM Plex Mono', monospace;
@@ -153,7 +167,8 @@ header a:hover {
   font-size: 10px;
   color: #404040;
 }
-/* .typer::after {
+/* Blinking cursor for keyboard */
+.products .typer::after {
   content: '';
   animation-duration: 1s;
   animation-name: blink;
@@ -161,7 +176,7 @@ header a:hover {
   animation-timing-function: step-start;
   opacity: 1;
   border-right: 2px solid gray;
-} */
+}
 @keyframes blink {
   50% {opacity: 0;}
 }
@@ -175,10 +190,6 @@ header a:hover {
 .products #popper .popper-content {
   padding: 40px 40px 40px 0;
 }
-/* .products #popper .popper-img */
-.index #popper h2 {
-  margin-top: 40px;
-}
 .index #popper-img {
   margin-top: 60px
 }
@@ -187,4 +198,9 @@ header a:hover {
   top: 40px;
   right: 40px;
   z-index: 10003;
+  transition: transform .2s ease-out;
+}
+#popper-close:hover {
+  transform: scale(1.1);
+  transition: transform .2s ease-in;
 }

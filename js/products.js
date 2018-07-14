@@ -16,8 +16,11 @@ $(document).ready(function() {
       popper(products[src]);
     });
   });
-  $('#popper').click(function() {
+  var $popper = $('#popper').click(function() {
     $(this).toggleClass('visible');
+  });
+  $('#popper-close').click(function() {
+    $popper.toggleClass('visible');
   });
   $('#popper .container').click(function(e) {
     e.stopPropagation();
