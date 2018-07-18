@@ -4,7 +4,6 @@ chicken_feet:
   text: '''
     A spicy snack for the late nights.
 
-
     100% made of
     100% taste like
     100% looks like
@@ -18,8 +17,6 @@ chicken_head:
   img: 'images/products/chicken_head_full.jpg'
   text: '''
     The ultimate by-product. Repurposed.
-
-
 
     50% made of
     50% taste like
@@ -35,7 +32,6 @@ chicken_fakefeet:
   text: '''
     A sustainable replica of chicken chewiness.
 
-
     20% made of
     30% taste like
     50% looks like 
@@ -48,7 +44,6 @@ chicken_wing:
   img: 'images/products/chicken_head_full.jpg'
   text: '''
     Chicken wings by the meter.
-
 
     50% made of
     120% taste like
@@ -64,7 +59,6 @@ chicken_smell:
   text: '''
      taste for the ones that don’t want to kill.
 
-
     0% made of
     100% taste like
     0% looks like 
@@ -78,7 +72,6 @@ fish_head:
   img: 'images/products/fish_head_full.jpg'
   text: '''
     A delicacies for the soups of many.
-
 
     100% made of
     100% taste like
@@ -94,7 +87,6 @@ fish_broth:
   text: '''
     In-between head and soup.
 
-
     70% made of
     80% taste like
     20% looks like
@@ -107,7 +99,6 @@ fish_boneless:
   img: 'images/products/fish_boneless_full.jpg'
   text: '''
     An educational for bone-in fish eating device.
-
 
     60% made of
     80% taste like
@@ -123,7 +114,6 @@ fish_fillet:
   text: '''
     An impossible and perfect bite of fish.
 
-
     100% made of
     120% taste like
     80% looks like
@@ -136,7 +126,6 @@ fish_smell:
   img: 'images/products/fish_smell_full.jpg'
   text: '''
     The essence of the fish we think is fish.
-
 
     0% made of
     100% taste like
@@ -152,7 +141,6 @@ silkworm_whole:
   text: '''
     The prospective future staple.
 
-
     100% made of
     100% taste like
     100% looks like
@@ -166,7 +154,6 @@ silkworm_polestick:
   img: 'images/products/silkworm_polestick_full.jpg'
   text: '''
     A not so wormy, worm biscuit.
-
 
     30% made of
     50% taste like
@@ -182,7 +169,6 @@ silkworm_cocoonsnack:
   text: '''
     A hyper-realistic edible cocoon for vermiphobia.
 
-
     10% made of
     10% taste like
     80% looks like
@@ -197,7 +183,6 @@ silkworm_caviar:
   text: '''
     A delicacy for the entomophagy connoisseur.
 
-
     50% made of
     120% taste like
     80% looks like
@@ -211,7 +196,6 @@ silkworm_oil:
   img: 'images/products/silkworm_oil_full.jpg'
   text: '''
     Hydrolyzed worm essence.
-
 
     100% made of
     0% taste like
