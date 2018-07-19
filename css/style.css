@@ -51,7 +51,7 @@ header a {
   text-decoration: none;
   font-weight: 600;
 }
-.index header a[href="index.html"], 
+.index header a[href="index.html"],
 .products header a[href="products.html"],
 .about header a[href="about.html"] {
   /* text-decoration: underline; */
@@ -79,14 +79,14 @@ header a:hover {
   margin: 4rem 0 8rem 0;
 }
 
-.tips, 
+.tips,
 .products img {
   display: block;
   transition: transform .2s ease-out;
   margin-bottom: 10px;
 }
 
-#foods-container .tips:hover, 
+#foods-container .tips:hover,
 #products-container img:hover {
   transform: scale(1.1);
   /* border: 1px solid black; */
@@ -166,6 +166,9 @@ header a:hover {
   line-height: 1.8em;
   font-size: 10px;
   color: #404040;
+}
+.bold{
+  font-weight: 600;
 }
 /* Blinking cursor for keyboard */
 .products .typer::after {
