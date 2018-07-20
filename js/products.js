@@ -9,7 +9,7 @@ $(document).ready(function() {
   // hack to get the identifier of each element
   $('#products-container img').each(function(i, e) {
     var src = $(this).attr('src');
-    src = src.replace('images/products/', '').replace('.jpg', '');
+    src = src.replace('images/products/', '').replace('.png', '');
     // console.log(src);
     $(this).click(function() {
       // console.log(products[src]);
@@ -35,6 +35,6 @@ function popper(data) {
   $('#popper-text').text('');
   setTimeout(function() {
     typer(data.text, "#popper-text", 1.5)
-  }, 200); 
-  
+  }, 200);
+
 }

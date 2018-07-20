@@ -1,6 +1,6 @@
 chicken_feet:
   title: 'Chicken feet'
-  img: 'images/products/chicken_feet_full.jpg'
+  img: 'images/products/chicken_feet.png'
   text: '''
     A spicy snack for the late nights.
 
@@ -14,7 +14,7 @@ chicken_feet:
     '''
 chicken_head:
   title: 'Chicken head'
-  img: 'images/products/chicken_head_full.jpg'
+  img: 'images/products/chicken_head.png'
   text: '''
     The ultimate by-product. Repurposed.
 
@@ -28,26 +28,26 @@ chicken_head:
     '''
 chicken_fakefeet:
   title: 'Chicken simulated feet'
-  img: 'images/products/chicken_fakefeet_full.jpg'
+  img: 'images/products/chicken_fakefeet.png'
   text: '''
     A sustainable replica of chicken chewiness.
 
     20% made of
     30% taste like
-    50% looks like 
+    50% looks like
 
-    Actually eating: Chicken broth (pigeon bones, chicken bones, salt, water, thyme), Gelatine (E441). 
+    Actually eating: Chicken broth (pigeon bones, chicken bones, salt, water, thyme), Gelatine (E441).
 
     '''
 chicken_wing:
   title: 'Chicken wing'
-  img: 'images/products/chicken_head_full.jpg'
+  img: 'images/products/chicken_head.png'
   text: '''
     Chicken wings by the meter.
 
     50% made of
     120% taste like
-    50% looks like 
+    50% looks like
 
 
     Actually eating: Chicken skin,chicken thigh, chicken breast, transglutaminase (1EVU), salt, black pepper.
@@ -55,13 +55,13 @@ chicken_wing:
     '''
 chicken_smell:
   title: 'Chicken smell'
-  img: 'images/products/chicken_smell_full.jpg'
+  img: 'images/products/chicken_smell.png'
   text: '''
      taste for the ones that don’t want to kill.
 
     0% made of
     100% taste like
-    0% looks like 
+    0% looks like
 
 
     Actually eating: artificial chicken aroma.
@@ -69,7 +69,7 @@ chicken_smell:
     '''
 fish_head:
   title: 'Fish head'
-  img: 'images/products/fish_head_full.jpg'
+  img: 'images/products/fish_head.png'
   text: '''
     A delicacies for the soups of many.
 
@@ -83,7 +83,7 @@ fish_head:
     '''
 fish_broth:
   title: 'Approximately fish head'
-  img: 'images/products/chicken_broth_full.jpg'
+  img: 'images/products/chicken_broth.png'
   text: '''
     In-between head and soup.
 
@@ -96,7 +96,7 @@ fish_broth:
     '''
 fish_boneless:
   title: 'Bone-in boneless fish'
-  img: 'images/products/fish_boneless_full.jpg'
+  img: 'images/products/fish_boneless.png'
   text: '''
     An educational for bone-in fish eating device.
 
@@ -104,13 +104,13 @@ fish_boneless:
     80% taste like
     30% looks like
 
-    
+
     Actually eating: Salmon tartare, agar agar (E406), 3D printed fish bone.
 
     '''
 fish_fillet:
   title: 'Fish fillet'
-  img: 'images/products/fish_fillet_full.jpg'
+  img: 'images/products/fish_fillet.png'
   text: '''
     An impossible and perfect bite of fish.
 
@@ -123,7 +123,7 @@ fish_fillet:
     '''
 fish_smell:
   title: 'Fish smell'
-  img: 'images/products/fish_smell_full.jpg'
+  img: 'images/products/fish_smell.png'
   text: '''
     The essence of the fish we think is fish.
 
@@ -131,13 +131,13 @@ fish_smell:
     100% taste like
     0% looks like
 
-    
+
     Actually eating: artificial fish aroma.
 
     '''
 silkworm_whole:
   title: 'Silkworm'
-  img: 'images/products/silkworm_whole_full.jpg'
+  img: 'images/products/silkworm_whole.png'
   text: '''
     The prospective future staple.
 
@@ -151,7 +151,7 @@ silkworm_whole:
     '''
 silkworm_polestick:
   title: 'Silkworm on a stick'
-  img: 'images/products/silkworm_polestick_full.jpg'
+  img: 'images/products/silkworm_polestick.png'
   text: '''
     A not so wormy, worm biscuit.
 
@@ -165,7 +165,7 @@ silkworm_polestick:
     '''
 silkworm_cocoonsnack:
   title: 'Silkworm cocoon snack'
-  img: 'images/products/silkworm_cocoonsnack_full.jpg'
+  img: 'images/products/silkworm_cocoonsnack.png'
   text: '''
     A hyper-realistic edible cocoon for vermiphobia.
 
@@ -179,7 +179,7 @@ silkworm_cocoonsnack:
     '''
 silkworm_caviar:
   title: 'Silkworm caviar'
-  img: 'images/products/silkworm_caviar_full.jpg'
+  img: 'images/products/silkworm_caviar.png'
   text: '''
     A delicacy for the entomophagy connoisseur.
 
@@ -193,7 +193,7 @@ silkworm_caviar:
     '''
 silkworm_oil:
   title: 'Silkworm oil'
-  img: 'images/products/silkworm_oil_full.jpg'
+  img: 'images/products/silkworm_oil.png'
   text: '''
     Hydrolyzed worm essence.
 
