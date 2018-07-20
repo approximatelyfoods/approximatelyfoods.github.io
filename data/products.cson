@@ -83,7 +83,7 @@ fish_head:
     '''
 fish_broth:
   title: 'Approximately fish head'
-  img: 'images/products/chicken_broth.png'
+  img: 'images/products/fish_broth.png'
   text: '''
     In-between head and soup.
 

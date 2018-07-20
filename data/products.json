@@ -16,7 +16,7 @@
   },
   "chicken_wing": {
     "title": "Chicken wing",
-    "img": "images/products/chicken_head.png",
+    "img": "images/products/chicken_wing.png",
     "text": "Chicken wings by the meter.\n\n50% made of\n120% taste like\n50% looks like \n\n\nActually eating: Chicken skin,chicken thigh, chicken breast, transglutaminase (1EVU), salt, black pepper.\n"
   },
   "chicken_smell": {
@@ -31,7 +31,7 @@
   },
   "fish_broth": {
     "title": "Approximately fish head",
-    "img": "images/products/chicken_broth.png",
+    "img": "images/products/fish_broth.png",
     "text": "In-between head and soup.\n\n70% made of\n80% taste like\n20% looks like\n\n\nActually eating: fish broth (water, fish bone, celery, leek, white wine, salt, black pepper, garlic, laurel), gelatine (E441), agar agar (E406), pickled green chilli, fish bones."
   },
   "fish_boneless": {
