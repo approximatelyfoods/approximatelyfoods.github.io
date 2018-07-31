@@ -51,27 +51,27 @@
   },
   "silkworm_whole": {
     "title": "Silkworm",
-    "img": "images/products/silkworm_whole_full.jpg",
+    "img": "images/products/silkworm_whole_full.png",
     "text": "The prospective future staple.\n\n100% made of\n100% taste like\n100% looks like\n\n\nActually eating: Silkworm.\n"
   },
   "silkworm_polestick": {
     "title": "Silkworm on a stick",
-    "img": "images/products/silkworm_polestick_full.jpg",
+    "img": "images/products/silkworm_polestick_full.png",
     "text": "A not so wormy, worm biscuit.\n\n30% made of\n50% taste like\n50% looks like\n\n\nActually eating: Flour, salted butter, egg, silkworm flour.\n"
   },
   "silkworm_cocoonsnack": {
     "title": "Silkworm cocoon snack",
-    "img": "images/products/silkworm_cocoonsnack_full.jpg",
+    "img": "images/products/silkworm_cocoonsnack_full.png",
     "text": "A hyper-realistic edible cocoon for vermiphobia.\n\n10% made of\n10% taste like\n80% looks like\n\n\nActually eating:Sugar, cashew nuts, silkworm flour.\n"
   },
   "silkworm_caviar": {
     "title": "Silkworm caviar",
-    "img": "images/products/silkworm_caviar_full.jpg",
+    "img": "images/products/silkworm_caviar_full.png",
     "text": "A delicacy for the entomophagy connoisseur.\n\n50% made of\n120% taste like\n80% looks like\n\n\nActually eating: Silkworm flour, water, salt, sodium alginate, calcium.\n"
   },
   "silkworm_oil": {
     "title": "Silkworm oil",
-    "img": "images/products/silkworm_oil_full.jpg",
+    "img": "images/products/silkworm_oil_full.png",
     "text": "Hydrolyzed worm essence.\n\n100% made of\n0% taste like\n0% looks like\n\nActually eating: Silkworm.\n"
   }
 }
